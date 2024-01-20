@@ -1,2 +1,8 @@
-# zimbra_10_foss
-Zimbra 10 FOSS
+#zimbra_foss_10
+Zimbra FOSS 10.0.6
+sha256sum zcs-10.0.6_GA_1001.RHEL8_64.20240115075429.tgz
+ae1e57aaf8a7389f9e7e89fcc3ca79192cf0c5f2b56c5e3180636af66dd01075 zcs-10.0.6_GA_1001.RHEL8_64.20240115075429.tgz
+sha256sum zcs-10.0.6_GA_1000.UBUNTU20_64.20240103021040.tgz
+6cef4ae5c168269bc367465a3e128cd930a51801a0936b16a2f26db09f73eeb6 zcs-10.0.6_GA_1000.UBUNTU20_64.20240103021040.tgz
+Link guide
+https://drive.google.com/drive/folders/1Ygyc1wxI5WaUYXhM1uN2B5erhrNr1GpT
